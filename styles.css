@@ -138,6 +138,7 @@ margin-bottom: 17px;
 	}
 	#top{
 		font-size: 20px;
+		margin-bottom:10px;
 	}
 	.center h1{
 		font-size: 25px;
@@ -147,7 +148,7 @@ margin-bottom: 17px;
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		margin: 230px 0px 0px 0px ;
+		margin: 260px 0px 0px 0px ;
 		padding: 0px 0px 20px 0px;
 	}
 	.icon{
