@@ -138,17 +138,18 @@ margin-bottom: 17px;
 	}
 	#top{
 		font-size: 20px;
-		margin-bottom:10px;
+		margin-top:10px;
 	}
 	.center h1{
 		font-size: 25px;
+		margin-bottom:10px;
 	}
 	.grid{
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		margin: 230px 0px 0px 0px ;
+		margin: 215px 0px 0px 0px ;
 		padding: 0px 0px 20px 0px;
 	}
 	.icon{
